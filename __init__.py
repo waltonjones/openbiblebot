@@ -8,8 +8,8 @@ import re
 from bs4 import BeautifulSoup
 from flask import Flask, request
 
-# Telegram Bot Authorization Token
-TOKEN = '120781339:AAGLFHUbNs3HOrnw7bNCnbaimLqFqW-IWI0'
+# Telegram Bot Authorization Token (Get from @BotFather)
+TOKEN = 'TOKEN'
 
 welcome = '''
 Greetings. I am OpenBibleBot.
