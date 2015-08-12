@@ -4,6 +4,6 @@ This is a Telegram bot that serves up scripture in both English and Korean using
 
 It uses the excellent [python-telegram-bot](https://github.com/leandrotoledo/python-telegram-bot) wrapper for the Telegram API. 
 
-I implemented this bot using the webhook method and I am currently hosting it on [Webfaction](https://www.webfaction.com/?aid=34111).
+I implemented this bot using the webhook method and I am currently hosting it on [Webfaction](https://www.webfaction.com/?aid=34111). To get this set up correctly, I used Webfaction's recommended [bash script](https://community.webfaction.com/questions/12718/installing-flask).
 
-To get [Webfaction](https://www.webfaction.com/?aid=34111) set up correctly, I used their recommended [bash script](https://community.webfaction.com/questions/12718/installing-flask). Finally, Telegram also requires an active SSL certificate that is signed by a third-party.
+Finally, Telegram also requires an active SSL certificate that is signed by a third-party.
